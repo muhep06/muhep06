@@ -17,10 +17,3 @@ ESP8266, PlatformIO, MQTT, hardware integration with sensors & actuators
 
 **Tools & Practices**  
 FFMPEG, Git, API design, CLI development, microservices, open-source contribution
-
----
-
-## 📊 GitHub Stats
-
-![Muhep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhep06&show_icons=true&theme=radical)
-
