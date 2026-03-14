@@ -25,7 +25,7 @@ I am a **Backend Developer & DevOps Enthusiast** focused on architecting resilie
 - 🛠️ **Current Focus:** Serverless architectures, CI/CD orchestration, and high-fidelity document processing.
 - 💡 **Interests:** Multi-cloud deployments, Dockerization, and hardware-software synergy.
 - 🏢 **Experience:** Proven track record in building and deploying **Institutional Scale Systems** across diverse tech stacks.
-- 📫 **Contact:** [muhepatasoy@gmail.com](mailto:muhepatasoy@gmail.com)
+- 📫 **Contact:** [muhepatasoy06@gmail.com](mailto:muhepatasoy06@gmail.com)
 
 ---
 
