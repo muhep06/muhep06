@@ -20,11 +20,11 @@
 
 ### 🚀 About Me
 
-I am a **Backend Developer** dedicated to building resilient infrastructures, high-performance APIs, and innovative hardware-software integrations. My experience ranges from developing **Core Open Source Packages** to architecting **Enterprise-grade Backend Systems** and **IoT Ecosystems**.
+I am a **Backend Developer & DevOps Enthusiast** focused on architecting resilient infrastructures, high-performance APIs, and cloud-native serverless solutions. My expertise bridges the gap between **Software Engineering** and **System Reliability**, with a strong focus on automation and multi-stack deployment.
 
-- 🛠️ **Current Focus:** Advanced Go development, Symfony/Laravel bundle architecture, and DevOps orchestration.
-- 💡 **Interests:** Package development, microservices, system-level automation, and hardware prototyping.
-- 🏢 **Experience:** Former Backend Intern at **90pixel**, focused on building reusable core tools and scalable infrastructures.
+- 🛠️ **Current Focus:** Serverless architectures, CI/CD orchestration, and high-fidelity document processing.
+- 💡 **Interests:** Multi-cloud deployments, Dockerization, and hardware-software synergy.
+- 🏢 **Experience:** Proven track record in building and deploying **Institutional Scale Systems** across diverse tech stacks.
 - 📫 **Contact:** [muhepatasoy@gmail.com](mailto:muhepatasoy@gmail.com)
 
 ---
@@ -33,28 +33,32 @@ I am a **Backend Developer** dedicated to building resilient infrastructures, hi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Backend & Web** | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Drone CI](https://img.shields.io/badge/Drone%20CI-212121?style=flat-square&logo=drone&logoColor=white) |
-| **IoT & Tools** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-3C5288?style=flat-square&logo=mqtt&logoColor=white) ![FFMPEG](https://img.shields.io/badge/FFMPEG-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Specialized** | ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=microsoftazure&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![DSpace](https://img.shields.io/badge/DSpace-Digital_Archive-blue?style=flat-square) ![FFMPEG](https://img.shields.io/badge/FFMPEG-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Engineering
+
+#### 🌩️ DevOps & Deployment Excellence
+- **CI/CD Pipeline Design:** Expert in orchestrating complex delivery pipelines using **GitLab CI/CD**, **GitHub Actions**, and **Drone CI**.
+- **Multi-Stack Deployment:** Proven experience in deploying and scaling diverse applications, including **Java-based enterprise backends**, high-concurrency **NodeJS/PHP** services, and modern **Frontend (FE)** frameworks.
+- **Containerization:** Architecting **Docker** environments for seamless development-to-production workflows across various operating systems and cloud providers.
+- **Infrastructure Management:** Advanced **Linux Administration**, Nginx reverse proxy optimization, and serverless automation via **Azure Functions**.
 
 #### 📦 Open Source Contributions (@90pixel)
-- **[Exporter-Bundle](https://github.com/90pixel/exporter-bundle):** A powerful Symfony bundle designed for flexible and high-performance data export operations across various formats.
-- **[CNF-Manager](https://github.com/90pixel/cnf-manager):** A robust configuration management utility built with **Go**, optimizing infrastructure setup and binary management.
+- **[Exporter-Bundle](https://github.com/90pixel/exporter-bundle):** A high-performance Symfony bundle for data export operations.
+- **[CNF-Manager](https://github.com/90pixel/cnf-manager):** A robust configuration management utility built with **Go**.
 
-#### 🚀 Technical Leadership & Deep Dives
-- **[TimeCalc](https://github.com/muhep06/timecalc):** A high-performance, native Kotlin mobile application designed for precise and complex temporal computations.
-- **[YouTube-DL API Server](https://github.com/muhep06/youtube-dl-api-server):** A widely integrated REST API server for media processing, optimized for high-concurrency environments.
-- **[IoT Security Ecosystem](https://github.com/muhep06/esp32-door-alarm):** End-to-end security solution using ESP32/NodeMCU with real-time push notification integration.
+#### 🏛️ Institutional Digital Systems
+- **Digital Library Solutions:** Extensive customization of **DSpace** infrastructures for institutional archives, focusing on metadata optimization and digital asset management.
+- **Specialized CMS Integrations:** Developed custom document processing engines and serverless PDF generation services using **Puppeteer**.
 
-#### 🏗️ Professional Backend Development
-- **Backend Architecture Excellence:** Developed robust architectures for **90pixel** internship assignments, focusing on clean code, SOLID principles, and efficient database modeling.
-- **Enterprise Solutions:** Built and deployed management systems for **Health**, **Legal**, and **E-commerce** sectors, integrating complex scheduling and payment algorithms.
-- **DevOps Tooling:** Custom Nginx CLI managers, automated backup orchestrators, and CI/CD pipelines.
+#### 🚀 Mobile & IoT
+- **[TimeCalc](https://github.com/muhep06/timecalc):** A high-performance native Kotlin mobile application for precise temporal computations.
+- **[IoT Security Ecosystem](https://github.com/muhep06/esp32-door-alarm):** Real-time security solutions using ESP32/NodeMCU hardware.
 
 ---
 
