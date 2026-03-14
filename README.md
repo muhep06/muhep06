@@ -45,12 +45,12 @@ I am a **Backend Developer & DevOps Enthusiast** focused on architecting resilie
 #### 🌩️ DevOps & Deployment Excellence
 - **CI/CD Pipeline Design:** Expert in orchestrating complex delivery pipelines using **GitLab CI/CD**, **GitHub Actions**, and **Drone CI**.
 - **Multi-Stack Deployment:** Proven experience in deploying and scaling diverse applications, including **Java/Python enterprise backends**, high-concurrency **NodeJS/PHP** services, and modern **Frontend (FE)** frameworks.
-- **Containerization:** Architecting **Docker** environments for seamless development-to-production workflows across various operating systems and cloud providers.
+- **Containerization:** Architecting **Docker** environments for seamless development-to-production workflows.
 - **Infrastructure Management:** Advanced **Linux Administration**, Nginx reverse proxy optimization, and serverless automation via **Azure Functions**.
 
 #### 📦 Open Source Contributions (@90pixel)
 - **[Exporter-Bundle](https://github.com/90pixel/exporter-bundle):** A high-performance Symfony bundle for data export operations.
-- **[CNF-Manager](https://github.com/90pixel/cnf-manager):** A robust configuration management utility built with **Go**.
+- **[CNF-Manager](https://github.com/90pixel/cnf-manager):** A robust configuration management utility built with **Node.js & TypeScript** for infrastructure optimization.
 
 #### 🏛️ Institutional Digital Systems
 - **Digital Library Solutions:** Extensive customization of **DSpace** infrastructures for institutional archives, focusing on metadata optimization and digital asset management.
